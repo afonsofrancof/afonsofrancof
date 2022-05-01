@@ -59,17 +59,50 @@
 			<td> SO solo Project - Audio file processing program (Client and Server)  </td>
 		</tr>
 		<tr>
-			<th rowspan="2"> 3rd Year</th>
-			<th rowspan="1">1st Semester </th>
-			<th> LI4</th>
+			<th rowspan="9"> 3rd Year</th>
+			<th rowspan="6">1st Semester </th>
+			<th rowspan="2"> LI4</th>
 			<td><a href="https://github.com/afonsofrancof/TechFinder"> Tech Finder</a> </td>
-			<td> LI4 project - Find local tech shops around you</td>
+			<td> Android App - Find local tech shops around you</td>
 		</tr>
 		<tr>
-			<th rowspan="1">2nd Semester </th>
+			<th><a href="https://github.com/afonsofrancof/TechFinder-Database-API"> Tech Finder Database API</a></th>
+			<td> MySQL API for TechFinder</td>
+		</tr>
+		<tr>
+			<th> IA </th>
+			<td> <a href="https://github.com/afonsofrancof/Package-Route-Calculator">  Package Route Calculator </a></td>
+			<td> Prolog program to calculate routes between points based on attributes </td>
+		</tr>
+		<tr>
+			<th rowspan="1">CC </th>
+			<td><a href="https://github.com/afonsofrancof/FFSync">  FFSync </a> </td>
+			<td> Sync Files between computers</td>
+		</tr>
+		<tr>
+			<th> SD</th>
+			<td> <a href="https://github.com/afonsofrancof/Flight-Reservation-Simulator">  Flight Reservation Simulator </a> </td>
+			<td> Simulate an Employee's flight reservation computer program</td>
+		</tr>
+		<tr>
+			<th> DSS </th>
+			<td> <a href="https://github.com/afonsofrancof/SRDE">  SRDE </a></td>
+			<td> Simulate a repair shop's computer system </td>
+		</tr>
+		<tr>
+			<th rowspan="3">2nd Semester </th>
 			<th> CG </th>
 			<td><a href="https://github.com/afonsofrancof/Solar-System-OpenGL">  Solar System in OpenGL </a></td>
 			<td> CG group project - GLUT OpenGL renderer</td>
+		</tr>
+		<tr>
+			<th rowspan="2">  PL</th>
+			<td> <a href="https://github.com/afonsofrancof/MD-2-HTML">  Markdown to HTML converter </a></td>
+			<td> Turn Markdown into HTML using Python</td>
+		</tr>
+		<tr>
+			<th> <a href="https://github.com/afonsofrancof/PLY-Simple-to-PLY">  PLY-Simple to PLY converter </a> </th>
+			<td> Turn PLY-Simple into PL using Python</td>
 		</tr>
 	</table>
 	

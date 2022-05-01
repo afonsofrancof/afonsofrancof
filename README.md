@@ -66,7 +66,7 @@
 			<td> Android App - Find local tech shops around you</td>
 		</tr>
 		<tr>
-			<th><a href="https://github.com/afonsofrancof/TechFinder-Database-API"> Tech Finder Database API</a></th>
+			<td><a href="https://github.com/afonsofrancof/TechFinder-Database-API"> Tech Finder Database API</a></td>
 			<td> MySQL API for TechFinder</td>
 		</tr>
 		<tr>
@@ -105,4 +105,3 @@
 			<td> Turn PLY-Simple into PL using Python</td>
 		</tr>
 	</table>
-	

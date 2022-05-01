@@ -106,25 +106,3 @@
 		</tr>
 	</table>
 	
-
-
-
-
-<li>
-          <h3>LI1</h3>
-            <ul>
-              <li><a href="https://github.com/afonsofrancof/Excite-Bike-Haskell"> Excite Bike in Haskell<a/> - LI1 group project.</li>
-            </ul>
-        </li>
-        <li>
-          <h3>SO</h3>
-            <ul>
-              <li><a href="https://github.com/afonsofrancof/Aurras"> Aurras - Audio file processing program (Client and Server)<a/> - SO solo project.  </li>
-              </li>
-          </ul>
-	    <li>
-	        <h3>PF</h3>
-	            <ul>
-	              <li><a href="https://github.com/afonsofrancof/50Q-PF"> 50 Questions - Haskell <a/> - PF's first test answered questions.</li>
-	            </ul>
-        </li>

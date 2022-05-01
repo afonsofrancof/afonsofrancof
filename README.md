@@ -1,8 +1,7 @@
 # Categories
 <ol>
-  <li><a href="#PersonalProjects">Personal Projects<a/></li>
-  <li>University Projects</li>
-  <li>Forks</li>
+  <li><a href="#PersonalProjects">Personal Projects</a></li>
+  <li><a href="#UniversityProjects">University Projects</a></li>
 </ol>
 <ul>
   <li class="PersonalProjects">
@@ -46,6 +45,9 @@
 	    <tr>
 		    <th rowspan="3">2nd Year</th>
 			<th rowspan="1">1st Semester </th>
+			<td> --</td>
+			<td>-- </td>
+			<td>-- </td>
 	    </tr> 
 		<tr>
 			<th rowspan="2">2nd Semester </th>
@@ -105,3 +107,5 @@
 			<td> Turn PLY-Simple into PL using Python</td>
 		</tr>
 	</table>
+	</li>
+</ul>

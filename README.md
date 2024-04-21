@@ -10,7 +10,6 @@
         <li> <a href="https://github.com/afonsofrancof/dotfiles"> Dot Files </a> - My current dotfiles / configuration files.  </li>
         <li> <a href="https://github.com/afonsofrancof/ConnectDot"> Connect Dot </a> - My first Android App (A social media example). </li>
         <li> <a href="https://github.com/afonsofrancof/find-path-to-stack-user"> Find path to St4ck user </a> - A python script to find the path from your steam profile to St4ck's (highest level steam user). </li>
-        <li><a href="https://github.com/afonsofrancof/SudokuSolver"> Sudoku Solver</a> - Something I want to work on but haven't found the time yet (Only structures defined so far).</li>
       </ul>
   </li>
   
